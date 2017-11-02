@@ -1,6 +1,7 @@
- p {
+background-color: AliceBlue;
+
+p {
 	 color: green;
-	 background-color: AliceBlue;
  }
  
 p.sansserif {
