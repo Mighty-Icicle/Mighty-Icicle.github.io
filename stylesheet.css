@@ -1,3 +1,4 @@
+<style>
 body {
 	background-color: AliceBlue;
 }
@@ -9,3 +10,5 @@ p {
 p.sansserif {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+</style>
