@@ -1,7 +1,25 @@
 p {
 	 color: green;
+	 font-family: Arial, Helvetica, sans-serif;
  }
  
-p.sansserif {
-    font-family: Arial, Helvetica, sans-serif;
+
+ul {
+	list-style-type: none;	
+	background: #99c2ff;
+	font-size: 50px;
+	width: 400px;
+	height: 200px;
+	padding: 0; /*removes padding from the left of screen*/
 }
+
+li a {
+	display: block; /*Make the link use the whole width*/
+	text-align: center;
+}
+
+li a:hover {
+	background: #1a75ff;
+	font-family: Time New Roman, Garamond, serif;
+}
+
